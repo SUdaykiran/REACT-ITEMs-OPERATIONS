@@ -1,0 +1,12 @@
+{
+    "Name":"UDAY KIRAN",
+    "Class":"IV-I",
+    "Department":"CSE",
+    "Adress":{
+        "Village":"Ulavalapalli",
+        "Mandal":"Pendellimarri",
+        "District":"Kadapa",
+        "State":"AndhraPradesh"
+    }
+
+}

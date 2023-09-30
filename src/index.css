@@ -1,0 +1,25 @@
+.intial-buttons-container {
+  display: flex;
+  place-content: center;
+  column-gap: 50px;
+  margin-top: 50px;
+  position: sticky;
+}
+
+.global-container {
+  border: 2px solid rgb(23, 1, 1);
+  height: 100%;
+  width: 80%;
+  margin: auto;
+  background-color: rgb(43, 188, 106);
+}
+
+th, td {
+  padding: 30px;
+}
+.uday{
+  background-color: rgb(184, 140, 87);
+}
+button{
+  row-gap: 100;
+}
